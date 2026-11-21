@@ -29,7 +29,7 @@ Replacement engine sales sit at the intersection of pricing discipline, product 
 - *Units vs. Revenue Comparison*: Clustered column chart comparing volume and revenue performance across brands.
 - *Brand & Engine Profitability Matrix*: Drillable matrix displaying units sold, revenue, and average gross margin % by brand and engine code.
 - *Top Revenue Engine Callout*: KPI card highlighting the #1 revenue-generating engine model (M274).
-- 
+
 <img width="879" height="482" alt="Profitability   margins" src="https://github.com/user-attachments/assets/399159c0-2586-4599-a166-5c5e0e6c585a" />
 
 
@@ -37,7 +37,7 @@ Replacement engine sales sit at the intersection of pricing discipline, product 
 - *Avg Gross Margin % by Origin Hub*: Sorted horizontal bar chart comparing margin efficiency across origin hubs.
 - *Units Sold by Origin Hub & Brand*: Stacked column chart breaking down unit volume by sourcing hub and brand.
 - *Interactive Brand Slicer*: Horizontal tile slicer allowing dynamic filtering across automotive brands.
-- 
+
 <img width="854" height="487" alt="Supply Chain   Origin Hubs" src="https://github.com/user-attachments/assets/e28c253f-7360-4314-8130-47dcd273bfd3" />
 
 
